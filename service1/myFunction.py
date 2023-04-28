@@ -1,3 +1,9 @@
+"""
+Author: MemoryMix
+Twitter: https://twitter.com/_MemoryMix_
+For info memorymix@uerii.com
+"""
+
 import mysql.connector
 
 
