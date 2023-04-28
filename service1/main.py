@@ -1,3 +1,9 @@
+"""
+Author: MemoryMix
+Twitter: https://twitter.com/_MemoryMix_
+For info memorymix@uerii.com
+"""
+
 from web3 import Web3, HTTPProvider
 import json
 from web3.utils.address import to_checksum_address
